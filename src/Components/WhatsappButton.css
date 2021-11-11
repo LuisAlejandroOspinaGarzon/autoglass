@@ -1,0 +1,14 @@
+.wa-btn{
+	position: fixed;
+	bottom: 20px;
+	z-index: 100000;
+	font-family: sans-serif;
+	text-decoration: none;
+	margin-left: 28px;
+	color: fff;
+	font-size: 0.9em;
+	padding: 2em;
+	border-radius: 2em;
+	background: #25d366 url('https://tochat.be/click-to-chat-directory/css/whatsapp.svg') no-repeat center;
+	background-size: 2em;
+}

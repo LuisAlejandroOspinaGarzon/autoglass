@@ -1,0 +1,47 @@
+.main-button {
+    background-color: #edf2f4;
+}
+
+.separator {
+    color: #04009a;
+    margin-top: 15px;
+}
+
+.content-button {
+    display: flex;
+    
+}
+
+.content-advice{
+    flex: 1;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.content-heading{
+    font-family: 'Teko', sans-serif;
+    font-size: 45px;
+}
+
+.content-info {
+    flex: 1;
+    font-size: 1.3rem;
+    text-align: center;
+        
+}
+
+#heading{
+    font-size: 30px;
+    margin-left: 5%;
+}
+
+.instagram{
+    width: 80px;
+    height: 80px;
+    opacity: 1;
+}
+
+.instagram:hover{
+    opacity: .9;
+}

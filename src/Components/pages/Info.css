@@ -1,0 +1,17 @@
+.info-body {
+	margin: 150px;
+	margin-top: 20px;
+}
+
+.right-aligned-card{
+	text-align: right;
+	margin-bottom: 26px;
+}
+
+.card-title-principal{
+	margin-bottom: 26px;
+}
+
+.info{
+	background-size: cover;
+}

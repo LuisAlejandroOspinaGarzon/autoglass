@@ -1,0 +1,28 @@
+span.content-body {
+	display: inline-block;
+}
+
+.content-header {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.form{
+	display: static;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+.item{
+	flex: 1;
+}
+
+.map{
+	
+}
+
+.btn{
+	margin-left: 48%;
+}
